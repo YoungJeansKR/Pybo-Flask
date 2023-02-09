@@ -16,4 +16,4 @@
 <br/><br/><br/> 
 
 예시
-<img src="./예시.png" width="300" height="300"/> <img src="./images/KA11.jpg" width="300" height="300"/>
+<img src="./images/예시.png" width="300" height="300"/>
