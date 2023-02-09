@@ -15,5 +15,5 @@
   * AWS
 <br/><br/><br/> 
 
-예시
-<img src="./images/예시.png" width="300" height="300"/>
+* 예시
+<img src="./images/예시.png" width="1000" height="500"/>
