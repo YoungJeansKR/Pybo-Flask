@@ -20,4 +20,4 @@
 
 * 실제 웹사이트 예시
 
-<img src="./images/예시.png" width="150%" height="150%"/>
+<img src="./images/예시.png" width="300%" height="300%"/>
