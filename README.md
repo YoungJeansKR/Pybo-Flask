@@ -5,7 +5,6 @@
 * 웹사이트 기능
   * 회원가입, 글쓰기, 답변, 수정, 삭제, 추천, 검색 등 실제 웹사이트에서 동작하는 기능 대부분 탑재 및 정상 실행
   * DB 연동 저장 및 조회 기능
- 
 <br/><br/><br/> 
  
 * 개발 언어 및 환경 /IDE
@@ -14,5 +13,7 @@
   * PyCharm
   * SQLite
   * AWS
+<br/><br/><br/> 
 
 예시
+<img src="./예시.png" width="300" height="300"/> <img src="./images/KA11.jpg" width="300" height="300"/>
