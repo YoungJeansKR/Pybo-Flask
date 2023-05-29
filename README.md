@@ -1,5 +1,5 @@
 # flask-pybo
-파이썬 플라스크 프레임워크를 이용하여 웹사이트를 구축하는 프로젝트입니다.
+Flask Framework를 이용하여 웹사이트를 구축하는 프로젝트입니다.
 <br/><br/><br/>
 
 
@@ -9,7 +9,7 @@
 <br/><br/><br/> 
  
  
-* 개발 언어 및 환경 /IDE
+* Language / IDE
   * HTML, CSS, JS
   * Python, Flask
   * PyCharm
