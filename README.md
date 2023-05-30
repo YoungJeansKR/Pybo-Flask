@@ -1,4 +1,4 @@
-# flask-pybo
+# Python-Flask
 Flask Framework를 이용하여 웹사이트를 구축하는 프로젝트입니다.
 <br/><br/><br/>
 
